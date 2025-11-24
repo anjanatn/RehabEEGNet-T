@@ -25,12 +25,9 @@ BrainHand demonstrates how artificial intelligence can bridge neuroscience and r
 - [Quick Start](#quick-start)
 - [Installation](#installation)
 - [Architecture](#architecture)
-- [Usage Guide](#usage-guide)
-- [Configuration](#configuration)
-- [API Reference](#api-reference)
-- [Model Details](#model-details)
-- [Contributing](#contributing)
-- [Troubleshooting](#troubleshooting)
+
+
+
 
 
 ##  Quick Start
