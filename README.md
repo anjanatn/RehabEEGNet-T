@@ -1,4 +1,4 @@
-### EEG-to-Hand-Rotation Prediction with Transformer Neural Networks
+####### EEG-to-Hand-Rotation Prediction with Transformer Neural Networks
 
 
 A cutting-edge Django web application that harnesses Transformer-based deep learning to predict robotic hand rotations from EEG (electroencephalography) brain signals. Features real-time 3D visualization, intelligent preprocessing, and seamless Blender integration for photorealistic rendering.
